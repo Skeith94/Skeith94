@@ -9,7 +9,7 @@
 ---
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning java
-- 📫 How to reach me vito_malato@yahoo.it
+- 📫 How to reach me linkedin.com/in/vito-malato-a122b6256
 
 
 ### :hammer_and_wrench: Languages and Tools :
